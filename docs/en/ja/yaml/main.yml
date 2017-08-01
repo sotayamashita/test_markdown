@@ -1,0 +1,9 @@
+---
+en:
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "%{errors}"
+        restrict_dependent_destroy:
+          has_many: fdsadsdsf
+          has_one: hogehoge
