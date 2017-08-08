@@ -1,0 +1,4 @@
+---
+en:
+  message:
+    hello_name: こんにちは%{name}
