@@ -1,3 +1,3 @@
 This is image 2
 
-![image](../../en/normal/images/rm.jpg)
+![画像](../../en/normal/images/rm.jpg)
