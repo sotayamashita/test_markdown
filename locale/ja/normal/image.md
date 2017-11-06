@@ -1,3 +1,3 @@
 # 画像
 
-![Image Alt](../../en/normal/images/rm.jpg "Image Title")
+![画像](../../en/normal/images/rm.jpg "画像タイトル")
