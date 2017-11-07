@@ -1,3 +1,3 @@
-# Image Test
+# 画像
 
-![画像](images/rm.jpg "画像タイトル")
+![画像](../../en/normal/images/rm.jpg "画像タイトル")
