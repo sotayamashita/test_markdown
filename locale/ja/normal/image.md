@@ -1,5 +1,7 @@
-# Image Test
+# 画像
 
-![画像](images/rm.jpg "画像タイトル")
+![Image Alt](../../en/normal/images/rm.jpg "Image Title")
 
-<img src="images/rm.jpg" alt="画像" title="画像タイトル"/>
+
+<img src="images/rm.jpg" alt="Image alt" title="Image title">
+
