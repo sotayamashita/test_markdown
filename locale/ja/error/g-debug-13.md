@@ -1,17 +1,10 @@
 <div class="framebox-container-container">
 <div class="framebox-container">
 {% framebox height="100%" %}
-<style>
-.lifecycle-diagram.register,
-.lifecycle-diagram .diagram-refresh,
-.lifecycle-diagram .diagram-close,
-.lifecycle-diagram.register .controlled,
-.lifecycle-diagram .cog-new {
-  opacity: 0;
-}
-</style>
+#cdata-section><style><#cdata-section>
 {% endframebox %}
+</div></style>
 </div>
 </div>
 
-次の HTML をご覧ください。
+次の HTML をご覧ください。。
