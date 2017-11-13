@@ -1,13 +1,11 @@
-This is image
+This is image fads
 
-![画像](../../../images/rm.jpg)
+![image](../../../images/rm.jpg)
 
 This is image 1
 
-![画像](./images/rm.jpg)
+![image](../../en/error/images/rm.jpg)
 
 This is image 2
 
-![画像](images/rm.jpg)
-
-This is image 3（日本語のみに存在します）
+![image](../../en/error/images/rm.jpg)
