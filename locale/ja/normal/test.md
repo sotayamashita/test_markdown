@@ -1,1 +1,1 @@
-This [link](http://exmaple.com) is `[link](http://exmaple.com)`
+This [link](http://exmaple.com) is `[link](http://exmaple.com)` です
