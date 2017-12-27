@@ -1,3 +1,3 @@
 [Link](url) is `[link](url)`
 
-new **untranslated** segment
+[Link](url) is `[link](url)`
