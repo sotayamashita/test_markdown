@@ -1,1 +1,8 @@
-<p>This is include HTML tag</p>
+- items:
+  - heading: Developer Feedback
+    description: >
+      <p>
+        Check the state of existing bugs through the Browser Bug Searcher and
+        learn how to give feedback for web platform features on all browsers
+        and platforms.
+      </p>
