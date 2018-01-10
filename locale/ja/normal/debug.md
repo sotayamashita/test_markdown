@@ -1,5 +1,4 @@
-[Link](url) is `[link](url)`
+hello world
 
-`[link](url)` は [Link](url) です
-
- is `[link](url)` [Link](url)
+Translated by
+{% include "web/_shared/contributors/dmitryskripunov.html" %}
