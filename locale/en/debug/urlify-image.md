@@ -4,4 +4,4 @@ In the Chrome UI, the Payment Request API has two states: the 'receipt' view and
 
 <img src="./images/state01-receipt-view.png" width="40">
 
-<img src="https://github.com/sotayamashita/test_project/blob/master/locale/en/debug/images/state01-receipt-view.png" width="40">
+<img src="https://raw.githubusercontent.com/sotayamashita/test_project/master/locale/en/debug/images/state01-receipt-view.png" width="40">
