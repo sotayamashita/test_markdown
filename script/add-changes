@@ -1,0 +1,13 @@
+#!/bin/bash
+
+main() {
+  readonly DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && cd ../ && pwd )"
+  readonly LAST_COMMIT="$(git rev-parse --short=7 head)"
+
+  echo "last commit is $LAST_COMMIT"
+  for file in "$DIR"/locale/en/normal/*; do
+    echo "test test" >> "$file"
+  done
+}
+
+main "%@"
